@@ -9,7 +9,12 @@
   "author": "Michael Sweeney <jfmike@gmail.com> (https://github.com/overthemike)",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.18.0",
     "concurrently": "^3.5.1",
-    "json-server": "^0.12.1"
+    "json-server": "^0.12.1",
+    "react-router-dom": "^4.3.1"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.6.3"
   }
 }
